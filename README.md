@@ -1,4 +1,4 @@
-# Basic Project
+# Modified Lollipops Project
 ## Basic Project Structure
 
 *Default Structure for A Basic Project*
